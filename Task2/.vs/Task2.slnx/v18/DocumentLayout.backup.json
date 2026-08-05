@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dell\\Desktop\\andalusia\\Andalusia\\Task2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{41BCE375-57B9-4C11-A991-C37F6109B6FE}|Task2.csproj|c:\\users\\dell\\desktop\\andalusia\\andalusia\\task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41BCE375-57B9-4C11-A991-C37F6109B6FE}|Task2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41BCE375-57B9-4C11-A991-C37F6109B6FE}|Task2.csproj|c:\\users\\dell\\desktop\\andalusia\\andalusia\\task2\\iresizable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41BCE375-57B9-4C11-A991-C37F6109B6FE}|Task2.csproj|solutionrelative:iresizable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41BCE375-57B9-4C11-A991-C37F6109B6FE}|Task2.csproj|c:\\users\\dell\\desktop\\andalusia\\andalusia\\task2\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41BCE375-57B9-4C11-A991-C37F6109B6FE}|Task2.csproj|solutionrelative:triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41BCE375-57B9-4C11-A991-C37F6109B6FE}|Task2.csproj|c:\\users\\dell\\desktop\\andalusia\\andalusia\\task2\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41BCE375-57B9-4C11-A991-C37F6109B6FE}|Task2.csproj|solutionrelative:circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41BCE375-57B9-4C11-A991-C37F6109B6FE}|Task2.csproj|c:\\users\\dell\\desktop\\andalusia\\andalusia\\task2\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41BCE375-57B9-4C11-A991-C37F6109B6FE}|Task2.csproj|solutionrelative:rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41BCE375-57B9-4C11-A991-C37F6109B6FE}|Task2.csproj|c:\\users\\dell\\desktop\\andalusia\\andalusia\\task2\\idrawable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41BCE375-57B9-4C11-A991-C37F6109B6FE}|Task2.csproj|solutionrelative:idrawable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41BCE375-57B9-4C11-A991-C37F6109B6FE}|Task2.csproj|c:\\users\\dell\\desktop\\andalusia\\andalusia\\task2\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41BCE375-57B9-4C11-A991-C37F6109B6FE}|Task2.csproj|solutionrelative:shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IResizable.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\andalusia\\Andalusia\\Task2\\IResizable.cs",
+              "RelativeDocumentMoniker": "IResizable.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\andalusia\\Andalusia\\Task2\\IResizable.cs",
+              "RelativeToolTip": "IResizable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-05T18:43:49.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Triangle.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\andalusia\\Andalusia\\Task2\\Triangle.cs",
+              "RelativeDocumentMoniker": "Triangle.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\andalusia\\Andalusia\\Task2\\Triangle.cs",
+              "RelativeToolTip": "Triangle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-05T18:41:20.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\andalusia\\Andalusia\\Task2\\Rectangle.cs",
+              "RelativeDocumentMoniker": "Rectangle.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\andalusia\\Andalusia\\Task2\\Rectangle.cs",
+              "RelativeToolTip": "Rectangle.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAkwB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-05T18:36:16.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\andalusia\\Andalusia\\Task2\\Circle.cs",
+              "RelativeDocumentMoniker": "Circle.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\andalusia\\Andalusia\\Task2\\Circle.cs",
+              "RelativeToolTip": "Circle.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAkwAYAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-05T18:11:29.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\andalusia\\Andalusia\\Task2\\Shape.cs",
+              "RelativeDocumentMoniker": "Shape.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\andalusia\\Andalusia\\Task2\\Shape.cs",
+              "RelativeToolTip": "Shape.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-05T18:05:56.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Idrawable.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\andalusia\\Andalusia\\Task2\\Idrawable.cs",
+              "RelativeDocumentMoniker": "Idrawable.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\andalusia\\Andalusia\\Task2\\Idrawable.cs",
+              "RelativeToolTip": "Idrawable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-05T18:04:10.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\andalusia\\Andalusia\\Task2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\andalusia\\Andalusia\\Task2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAWwBkAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-05T17:59:53.694Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
