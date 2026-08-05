@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="PremiumSavingsAccount.cs" />
+    <File Path="SavingsAccount.cs" />
+  </Folder>
+  <Project Path="Assignment1.csproj" />
+</Solution>
