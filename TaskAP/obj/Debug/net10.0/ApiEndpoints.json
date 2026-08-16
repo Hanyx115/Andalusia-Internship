@@ -1,0 +1,34 @@
+[
+  {
+    "ContainingType": "TasksV1Controller",
+    "Method": "GetTasks",
+    "RelativePath": "api/v{version}/tasks",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "version",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TasksV2Controller",
+    "Method": "GetTasks",
+    "RelativePath": "api/v{version}/tasks",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "version",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

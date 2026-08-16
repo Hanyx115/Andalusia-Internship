@@ -1,0 +1,28 @@
+{
+  "version": 2,
+  "dgSpecHash": "xzWzIpsAAOU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dell\\Desktop\\andalusia\\TaskAP\\TaskAP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dell\\.nuget\\packages\\asp.versioning.abstractions\\10.2.1\\asp.versioning.abstractions.10.2.1.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\asp.versioning.http\\10.2.1\\asp.versioning.http.10.2.1.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\asp.versioning.mvc\\10.2.1\\asp.versioning.mvc.10.2.1.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\asp.versioning.mvc.apiexplorer\\10.2.1\\asp.versioning.mvc.apiexplorer.10.2.1.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.10\\microsoft.aspnetcore.openapi.10.0.10.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "Package 'Microsoft.OpenApi' 2.0.0 has a known high severity vulnerability, https://github.com/advisories/GHSA-v5pm-xwqc-g5wc",
+      "projectPath": "C:\\Users\\Dell\\Desktop\\andalusia\\TaskAP\\TaskAP.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\Dell\\Desktop\\andalusia\\TaskAP\\TaskAP.csproj",
+      "libraryId": "Microsoft.OpenApi",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
+}
