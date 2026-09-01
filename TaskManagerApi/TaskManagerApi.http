@@ -1,0 +1,23 @@
+@baseUrl = http://localhost:5080
+@id = 1
+
+### Create (copy the returned ID into @id)
+POST {{baseUrl}}/api/tasks
+Content-Type: application/json
+
+{"title":"Team meeting","description":"Discuss the project"}
+
+### Filter and paginate
+GET {{baseUrl}}/api/tasks?search=MEETING&isCompleted=false&page=1&pageSize=5
+
+### Get details
+GET {{baseUrl}}/api/tasks/{{id}}
+
+### Update
+PUT {{baseUrl}}/api/tasks/{{id}}
+Content-Type: application/json
+
+{"title":"Team meeting","description":"Meeting finished","isCompleted":true}
+
+### Delete
+DELETE {{baseUrl}}/api/tasks/{{id}}
