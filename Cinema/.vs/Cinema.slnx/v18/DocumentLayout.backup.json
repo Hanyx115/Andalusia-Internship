@@ -1,0 +1,976 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dell\\Desktop\\andalusia\\Cinema\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6779EA53-F760-42DF-B0A8-74EC92B6C217}|Cinema.csproj|c:\\users\\dell\\desktop\\andalusia\\cinema\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6779EA53-F760-42DF-B0A8-74EC92B6C217}|Cinema.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6779EA53-F760-42DF-B0A8-74EC92B6C217}|Cinema.csproj|c:\\users\\dell\\desktop\\andalusia\\cinema\\repistories\\showtimerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6779EA53-F760-42DF-B0A8-74EC92B6C217}|Cinema.csproj|solutionrelative:repistories\\showtimerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6779EA53-F760-42DF-B0A8-74EC92B6C217}|Cinema.csproj|c:\\users\\dell\\desktop\\andalusia\\cinema\\services\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6779EA53-F760-42DF-B0A8-74EC92B6C217}|Cinema.csproj|solutionrelative:services\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6779EA53-F760-42DF-B0A8-74EC92B6C217}|Cinema.csproj|c:\\users\\dell\\desktop\\andalusia\\cinema\\services\\showtimeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6779EA53-F760-42DF-B0A8-74EC92B6C217}|Cinema.csproj|solutionrelative:services\\showtimeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6779EA53-F760-42DF-B0A8-74EC92B6C217}|Cinema.csproj|c:\\users\\dell\\desktop\\andalusia\\cinema\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6779EA53-F760-42DF-B0A8-74EC92B6C217}|Cinema.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6779EA53-F760-42DF-B0A8-74EC92B6C217}|Cinema.csproj|c:\\users\\dell\\desktop\\andalusia\\cinema\\dotnet_template.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{6779EA53-F760-42DF-B0A8-74EC92B6C217}|Cinema.csproj|solutionrelative:dotnet_template.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6779EA53-F760-42DF-B0A8-74EC92B6C217}|Cinema.csproj|c:\\users\\dell\\desktop\\andalusia\\cinema\\controllers\\bookingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6779EA53-F760-42DF-B0A8-74EC92B6C217}|Cinema.csproj|solutionrelative:controllers\\bookingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6779EA53-F760-42DF-B0A8-74EC92B6C217}|Cinema.csproj|c:\\users\\dell\\desktop\\andalusia\\cinema\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6779EA53-F760-42DF-B0A8-74EC92B6C217}|Cinema.csproj|solutionrelative:controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6779EA53-F760-42DF-B0A8-74EC92B6C217}|Cinema.csproj|c:\\users\\dell\\desktop\\andalusia\\cinema\\controllers\\showtimescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6779EA53-F760-42DF-B0A8-74EC92B6C217}|Cinema.csproj|solutionrelative:controllers\\showtimescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6779EA53-F760-42DF-B0A8-74EC92B6C217}|Cinema.csproj|c:\\users\\dell\\desktop\\andalusia\\cinema\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6779EA53-F760-42DF-B0A8-74EC92B6C217}|Cinema.csproj|solutionrelative:controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6779EA53-F760-42DF-B0A8-74EC92B6C217}|Cinema.csproj|c:\\users\\dell\\desktop\\andalusia\\cinema\\controllers\\auditoriumscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6779EA53-F760-42DF-B0A8-74EC92B6C217}|Cinema.csproj|solutionrelative:controllers\\auditoriumscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6779EA53-F760-42DF-B0A8-74EC92B6C217}|Cinema.csproj|c:\\users\\dell\\desktop\\andalusia\\cinema\\cinema.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6779EA53-F760-42DF-B0A8-74EC92B6C217}|Cinema.csproj|solutionrelative:cinema.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6779EA53-F760-42DF-B0A8-74EC92B6C217}|Cinema.csproj|c:\\users\\dell\\desktop\\andalusia\\cinema\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6779EA53-F760-42DF-B0A8-74EC92B6C217}|Cinema.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6779EA53-F760-42DF-B0A8-74EC92B6C217}|Cinema.csproj|c:\\users\\dell\\desktop\\andalusia\\cinema\\repistories\\interfaces\\ibookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6779EA53-F760-42DF-B0A8-74EC92B6C217}|Cinema.csproj|solutionrelative:repistories\\interfaces\\ibookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6779EA53-F760-42DF-B0A8-74EC92B6C217}|Cinema.csproj|c:\\users\\dell\\desktop\\andalusia\\cinema\\services\\bookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6779EA53-F760-42DF-B0A8-74EC92B6C217}|Cinema.csproj|solutionrelative:services\\bookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6779EA53-F760-42DF-B0A8-74EC92B6C217}|Cinema.csproj|c:\\users\\dell\\desktop\\andalusia\\cinema\\repistories\\interfaces\\imovierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6779EA53-F760-42DF-B0A8-74EC92B6C217}|Cinema.csproj|solutionrelative:repistories\\interfaces\\imovierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6779EA53-F760-42DF-B0A8-74EC92B6C217}|Cinema.csproj|c:\\users\\dell\\desktop\\andalusia\\cinema\\services\\interfaces\\imovieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6779EA53-F760-42DF-B0A8-74EC92B6C217}|Cinema.csproj|solutionrelative:services\\interfaces\\imovieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6779EA53-F760-42DF-B0A8-74EC92B6C217}|Cinema.csproj|c:\\users\\dell\\desktop\\andalusia\\cinema\\repistories\\movierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6779EA53-F760-42DF-B0A8-74EC92B6C217}|Cinema.csproj|solutionrelative:repistories\\movierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6779EA53-F760-42DF-B0A8-74EC92B6C217}|Cinema.csproj|c:\\users\\dell\\desktop\\andalusia\\cinema\\repistories\\bookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6779EA53-F760-42DF-B0A8-74EC92B6C217}|Cinema.csproj|solutionrelative:repistories\\bookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6779EA53-F760-42DF-B0A8-74EC92B6C217}|Cinema.csproj|c:\\users\\dell\\desktop\\andalusia\\cinema\\services\\interfaces\\iauditoriumservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6779EA53-F760-42DF-B0A8-74EC92B6C217}|Cinema.csproj|solutionrelative:services\\interfaces\\iauditoriumservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6779EA53-F760-42DF-B0A8-74EC92B6C217}|Cinema.csproj|c:\\users\\dell\\desktop\\andalusia\\cinema\\models\\auditorium.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6779EA53-F760-42DF-B0A8-74EC92B6C217}|Cinema.csproj|solutionrelative:models\\auditorium.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6779EA53-F760-42DF-B0A8-74EC92B6C217}|Cinema.csproj|c:\\users\\dell\\desktop\\andalusia\\cinema\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6779EA53-F760-42DF-B0A8-74EC92B6C217}|Cinema.csproj|solutionrelative:mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6779EA53-F760-42DF-B0A8-74EC92B6C217}|Cinema.csproj|c:\\users\\dell\\desktop\\andalusia\\cinema\\models\\showtime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6779EA53-F760-42DF-B0A8-74EC92B6C217}|Cinema.csproj|solutionrelative:models\\showtime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6779EA53-F760-42DF-B0A8-74EC92B6C217}|Cinema.csproj|c:\\users\\dell\\desktop\\andalusia\\cinema\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6779EA53-F760-42DF-B0A8-74EC92B6C217}|Cinema.csproj|solutionrelative:services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6779EA53-F760-42DF-B0A8-74EC92B6C217}|Cinema.csproj|c:\\users\\dell\\desktop\\andalusia\\cinema\\services\\auditoriumservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6779EA53-F760-42DF-B0A8-74EC92B6C217}|Cinema.csproj|solutionrelative:services\\auditoriumservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6779EA53-F760-42DF-B0A8-74EC92B6C217}|Cinema.csproj|c:\\users\\dell\\desktop\\andalusia\\cinema\\services\\interfaces\\ishowtimeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6779EA53-F760-42DF-B0A8-74EC92B6C217}|Cinema.csproj|solutionrelative:services\\interfaces\\ishowtimeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6779EA53-F760-42DF-B0A8-74EC92B6C217}|Cinema.csproj|c:\\users\\dell\\desktop\\andalusia\\cinema\\services\\interfaces\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6779EA53-F760-42DF-B0A8-74EC92B6C217}|Cinema.csproj|solutionrelative:services\\interfaces\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6779EA53-F760-42DF-B0A8-74EC92B6C217}|Cinema.csproj|c:\\users\\dell\\desktop\\andalusia\\cinema\\services\\interfaces\\ibookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6779EA53-F760-42DF-B0A8-74EC92B6C217}|Cinema.csproj|solutionrelative:services\\interfaces\\ibookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6779EA53-F760-42DF-B0A8-74EC92B6C217}|Cinema.csproj|c:\\users\\dell\\desktop\\andalusia\\cinema\\middleware\\globalexceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6779EA53-F760-42DF-B0A8-74EC92B6C217}|Cinema.csproj|solutionrelative:middleware\\globalexceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6779EA53-F760-42DF-B0A8-74EC92B6C217}|Cinema.csproj|c:\\users\\dell\\desktop\\andalusia\\cinema\\dto\\bookingfilterparams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6779EA53-F760-42DF-B0A8-74EC92B6C217}|Cinema.csproj|solutionrelative:dto\\bookingfilterparams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6779EA53-F760-42DF-B0A8-74EC92B6C217}|Cinema.csproj|c:\\users\\dell\\desktop\\andalusia\\cinema\\dto\\auditoriumdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6779EA53-F760-42DF-B0A8-74EC92B6C217}|Cinema.csproj|solutionrelative:dto\\auditoriumdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6779EA53-F760-42DF-B0A8-74EC92B6C217}|Cinema.csproj|c:\\users\\dell\\desktop\\andalusia\\cinema\\dto\\bookingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6779EA53-F760-42DF-B0A8-74EC92B6C217}|Cinema.csproj|solutionrelative:dto\\bookingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6779EA53-F760-42DF-B0A8-74EC92B6C217}|Cinema.csproj|c:\\users\\dell\\desktop\\andalusia\\cinema\\dto\\createcustomerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6779EA53-F760-42DF-B0A8-74EC92B6C217}|Cinema.csproj|solutionrelative:dto\\createcustomerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6779EA53-F760-42DF-B0A8-74EC92B6C217}|Cinema.csproj|c:\\users\\dell\\desktop\\andalusia\\cinema\\dto\\createmovierequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6779EA53-F760-42DF-B0A8-74EC92B6C217}|Cinema.csproj|solutionrelative:dto\\createmovierequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6779EA53-F760-42DF-B0A8-74EC92B6C217}|Cinema.csproj|c:\\users\\dell\\desktop\\andalusia\\cinema\\dto\\createbookingrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6779EA53-F760-42DF-B0A8-74EC92B6C217}|Cinema.csproj|solutionrelative:dto\\createbookingrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6779EA53-F760-42DF-B0A8-74EC92B6C217}|Cinema.csproj|c:\\users\\dell\\desktop\\andalusia\\cinema\\dto\\createauditoriumrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6779EA53-F760-42DF-B0A8-74EC92B6C217}|Cinema.csproj|solutionrelative:dto\\createauditoriumrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6779EA53-F760-42DF-B0A8-74EC92B6C217}|Cinema.csproj|c:\\users\\dell\\desktop\\andalusia\\cinema\\dto\\updateshowtimerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6779EA53-F760-42DF-B0A8-74EC92B6C217}|Cinema.csproj|solutionrelative:dto\\updateshowtimerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6779EA53-F760-42DF-B0A8-74EC92B6C217}|Cinema.csproj|c:\\users\\dell\\desktop\\andalusia\\cinema\\dto\\updatemovierequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6779EA53-F760-42DF-B0A8-74EC92B6C217}|Cinema.csproj|solutionrelative:dto\\updatemovierequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6779EA53-F760-42DF-B0A8-74EC92B6C217}|Cinema.csproj|c:\\users\\dell\\desktop\\andalusia\\cinema\\dto\\updatecustomerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6779EA53-F760-42DF-B0A8-74EC92B6C217}|Cinema.csproj|solutionrelative:dto\\updatecustomerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6779EA53-F760-42DF-B0A8-74EC92B6C217}|Cinema.csproj|c:\\users\\dell\\desktop\\andalusia\\cinema\\dto\\updateauditoriumrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6779EA53-F760-42DF-B0A8-74EC92B6C217}|Cinema.csproj|solutionrelative:dto\\updateauditoriumrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6779EA53-F760-42DF-B0A8-74EC92B6C217}|Cinema.csproj|c:\\users\\dell\\desktop\\andalusia\\cinema\\dto\\showtimedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6779EA53-F760-42DF-B0A8-74EC92B6C217}|Cinema.csproj|solutionrelative:dto\\showtimedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6779EA53-F760-42DF-B0A8-74EC92B6C217}|Cinema.csproj|c:\\users\\dell\\desktop\\andalusia\\cinema\\dto\\paginationparams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6779EA53-F760-42DF-B0A8-74EC92B6C217}|Cinema.csproj|solutionrelative:dto\\paginationparams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6779EA53-F760-42DF-B0A8-74EC92B6C217}|Cinema.csproj|c:\\users\\dell\\desktop\\andalusia\\cinema\\dto\\pagedresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6779EA53-F760-42DF-B0A8-74EC92B6C217}|Cinema.csproj|solutionrelative:dto\\pagedresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6779EA53-F760-42DF-B0A8-74EC92B6C217}|Cinema.csproj|c:\\users\\dell\\desktop\\andalusia\\cinema\\dto\\moviev2dto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6779EA53-F760-42DF-B0A8-74EC92B6C217}|Cinema.csproj|solutionrelative:dto\\moviev2dto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6779EA53-F760-42DF-B0A8-74EC92B6C217}|Cinema.csproj|c:\\users\\dell\\desktop\\andalusia\\cinema\\dto\\moviev1dto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6779EA53-F760-42DF-B0A8-74EC92B6C217}|Cinema.csproj|solutionrelative:dto\\moviev1dto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6779EA53-F760-42DF-B0A8-74EC92B6C217}|Cinema.csproj|c:\\users\\dell\\desktop\\andalusia\\cinema\\dto\\moviefilterparams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6779EA53-F760-42DF-B0A8-74EC92B6C217}|Cinema.csproj|solutionrelative:dto\\moviefilterparams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6779EA53-F760-42DF-B0A8-74EC92B6C217}|Cinema.csproj|c:\\users\\dell\\desktop\\andalusia\\cinema\\dto\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6779EA53-F760-42DF-B0A8-74EC92B6C217}|Cinema.csproj|solutionrelative:dto\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6779EA53-F760-42DF-B0A8-74EC92B6C217}|Cinema.csproj|c:\\users\\dell\\desktop\\andalusia\\cinema\\dto\\createshowtimerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6779EA53-F760-42DF-B0A8-74EC92B6C217}|Cinema.csproj|solutionrelative:dto\\createshowtimerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6779EA53-F760-42DF-B0A8-74EC92B6C217}|Cinema.csproj|c:\\users\\dell\\desktop\\andalusia\\cinema\\repistories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6779EA53-F760-42DF-B0A8-74EC92B6C217}|Cinema.csproj|solutionrelative:repistories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6779EA53-F760-42DF-B0A8-74EC92B6C217}|Cinema.csproj|c:\\users\\dell\\desktop\\andalusia\\cinema\\repistories\\auditoriumrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6779EA53-F760-42DF-B0A8-74EC92B6C217}|Cinema.csproj|solutionrelative:repistories\\auditoriumrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6779EA53-F760-42DF-B0A8-74EC92B6C217}|Cinema.csproj|c:\\users\\dell\\desktop\\andalusia\\cinema\\repistories\\interfaces\\ishowtimerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6779EA53-F760-42DF-B0A8-74EC92B6C217}|Cinema.csproj|solutionrelative:repistories\\interfaces\\ishowtimerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6779EA53-F760-42DF-B0A8-74EC92B6C217}|Cinema.csproj|c:\\users\\dell\\desktop\\andalusia\\cinema\\repistories\\interfaces\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6779EA53-F760-42DF-B0A8-74EC92B6C217}|Cinema.csproj|solutionrelative:repistories\\interfaces\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6779EA53-F760-42DF-B0A8-74EC92B6C217}|Cinema.csproj|c:\\users\\dell\\desktop\\andalusia\\cinema\\repistories\\interfaces\\iauditoriumrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6779EA53-F760-42DF-B0A8-74EC92B6C217}|Cinema.csproj|solutionrelative:repistories\\interfaces\\iauditoriumrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6779EA53-F760-42DF-B0A8-74EC92B6C217}|Cinema.csproj|c:\\users\\dell\\desktop\\andalusia\\cinema\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6779EA53-F760-42DF-B0A8-74EC92B6C217}|Cinema.csproj|solutionrelative:models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6779EA53-F760-42DF-B0A8-74EC92B6C217}|Cinema.csproj|c:\\users\\dell\\desktop\\andalusia\\cinema\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6779EA53-F760-42DF-B0A8-74EC92B6C217}|Cinema.csproj|solutionrelative:models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6779EA53-F760-42DF-B0A8-74EC92B6C217}|Cinema.csproj|c:\\users\\dell\\desktop\\andalusia\\cinema\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6779EA53-F760-42DF-B0A8-74EC92B6C217}|Cinema.csproj|solutionrelative:models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Cinema",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\andalusia\\Cinema\\Cinema.csproj",
+              "RelativeDocumentMoniker": "Cinema.csproj",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\andalusia\\Cinema\\Cinema.csproj",
+              "RelativeToolTip": "Cinema.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-08-25T09:14:54.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DotNet_Template.http",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\andalusia\\Cinema\\DotNet_Template.http",
+              "RelativeDocumentMoniker": "DotNet_Template.http",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\andalusia\\Cinema\\DotNet_Template.http",
+              "RelativeToolTip": "DotNet_Template.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-08-25T09:40:44.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\andalusia\\Cinema\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\andalusia\\Cinema\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAqwFEAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-25T08:37:39.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\andalusia\\Cinema\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\andalusia\\Cinema\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-24T21:18:46.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ShowTimeService.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\andalusia\\Cinema\\Services\\ShowTimeService.cs",
+              "RelativeDocumentMoniker": "Services\\ShowTimeService.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\andalusia\\Cinema\\Services\\ShowTimeService.cs",
+              "RelativeToolTip": "Services\\ShowTimeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-25T01:17:19.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MovieService.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\andalusia\\Cinema\\Services\\MovieService.cs",
+              "RelativeDocumentMoniker": "Services\\MovieService.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\andalusia\\Cinema\\Services\\MovieService.cs",
+              "RelativeToolTip": "Services\\MovieService.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAYwBIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-25T01:16:57.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ShowTimeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\andalusia\\Cinema\\Repistories\\ShowTimeRepository.cs",
+              "RelativeDocumentMoniker": "Repistories\\ShowTimeRepository.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\andalusia\\Cinema\\Repistories\\ShowTimeRepository.cs",
+              "RelativeToolTip": "Repistories\\ShowTimeRepository.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAA/wBEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-24T23:08:02.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ShowTimesController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\andalusia\\Cinema\\Controllers\\ShowTimesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ShowTimesController.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\andalusia\\Cinema\\Controllers\\ShowTimesController.cs",
+              "RelativeToolTip": "Controllers\\ShowTimesController.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAIwDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-25T00:31:01.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MoviesController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\andalusia\\Cinema\\Controllers\\MoviesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MoviesController.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\andalusia\\Cinema\\Controllers\\MoviesController.cs",
+              "RelativeToolTip": "Controllers\\MoviesController.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAiwF8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-24T23:20:30.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\andalusia\\Cinema\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\andalusia\\Cinema\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "Controllers\\CustomerController.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAADwvwoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-24T23:19:11.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BookingsController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\andalusia\\Cinema\\Controllers\\BookingsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BookingsController.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\andalusia\\Cinema\\Controllers\\BookingsController.cs",
+              "RelativeToolTip": "Controllers\\BookingsController.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAADwvwsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-24T23:17:47.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AuditoriumsController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\andalusia\\Cinema\\Controllers\\AuditoriumsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuditoriumsController.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\andalusia\\Cinema\\Controllers\\AuditoriumsController.cs",
+              "RelativeToolTip": "Controllers\\AuditoriumsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-24T23:12:05.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IBookingRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\andalusia\\Cinema\\Repistories\\Interfaces\\IBookingRepository.cs",
+              "RelativeDocumentMoniker": "Repistories\\Interfaces\\IBookingRepository.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\andalusia\\Cinema\\Repistories\\Interfaces\\IBookingRepository.cs",
+              "RelativeToolTip": "Repistories\\Interfaces\\IBookingRepository.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAuwA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-24T22:51:01.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IMovieRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\andalusia\\Cinema\\Repistories\\Interfaces\\IMovieRepository.cs",
+              "RelativeDocumentMoniker": "Repistories\\Interfaces\\IMovieRepository.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\andalusia\\Cinema\\Repistories\\Interfaces\\IMovieRepository.cs",
+              "RelativeToolTip": "Repistories\\Interfaces\\IMovieRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-24T22:52:35.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BookingService.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\andalusia\\Cinema\\Services\\BookingService.cs",
+              "RelativeDocumentMoniker": "Services\\BookingService.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\andalusia\\Cinema\\Services\\BookingService.cs",
+              "RelativeToolTip": "Services\\BookingService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAgwBkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-25T01:15:29.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MovieRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\andalusia\\Cinema\\Repistories\\MovieRepository.cs",
+              "RelativeDocumentMoniker": "Repistories\\MovieRepository.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\andalusia\\Cinema\\Repistories\\MovieRepository.cs",
+              "RelativeToolTip": "Repistories\\MovieRepository.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwBYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-24T23:06:10.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\andalusia\\Cinema\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\andalusia\\Cinema\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-24T23:10:35.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IMovieService.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\andalusia\\Cinema\\Services\\Interfaces\\IMovieService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IMovieService.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\andalusia\\Cinema\\Services\\Interfaces\\IMovieService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IMovieService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-25T01:13:00.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BookingRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\andalusia\\Cinema\\Repistories\\BookingRepository.cs",
+              "RelativeDocumentMoniker": "Repistories\\BookingRepository.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\andalusia\\Cinema\\Repistories\\BookingRepository.cs",
+              "RelativeToolTip": "Repistories\\BookingRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFEAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-24T23:01:45.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IAuditoriumService.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\andalusia\\Cinema\\Services\\Interfaces\\IAuditoriumService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IAuditoriumService.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\andalusia\\Cinema\\Services\\Interfaces\\IAuditoriumService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IAuditoriumService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-25T01:11:24.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Auditorium.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\andalusia\\Cinema\\Models\\Auditorium.cs",
+              "RelativeDocumentMoniker": "Models\\Auditorium.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\andalusia\\Cinema\\Models\\Auditorium.cs",
+              "RelativeToolTip": "Models\\Auditorium.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAYwAwAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-24T22:19:58.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\andalusia\\Cinema\\Mapping\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "Mapping\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\andalusia\\Cinema\\Mapping\\MappingProfile.cs",
+              "RelativeToolTip": "Mapping\\MappingProfile.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-25T01:08:59.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ShowTime.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\andalusia\\Cinema\\Models\\ShowTime.cs",
+              "RelativeDocumentMoniker": "Models\\ShowTime.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\andalusia\\Cinema\\Models\\ShowTime.cs",
+              "RelativeToolTip": "Models\\ShowTime.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-24T22:23:58.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\andalusia\\Cinema\\Services\\CustomerService.cs",
+              "RelativeDocumentMoniker": "Services\\CustomerService.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\andalusia\\Cinema\\Services\\CustomerService.cs",
+              "RelativeToolTip": "Services\\CustomerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-25T01:16:33.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AuditoriumService.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\andalusia\\Cinema\\Services\\AuditoriumService.cs",
+              "RelativeDocumentMoniker": "Services\\AuditoriumService.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\andalusia\\Cinema\\Services\\AuditoriumService.cs",
+              "RelativeToolTip": "Services\\AuditoriumService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-25T01:13:16.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IShowTimeService.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\andalusia\\Cinema\\Services\\Interfaces\\IShowTimeService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IShowTimeService.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\andalusia\\Cinema\\Services\\Interfaces\\IShowTimeService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IShowTimeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-25T01:13:05.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ICustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\andalusia\\Cinema\\Services\\Interfaces\\ICustomerService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\ICustomerService.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\andalusia\\Cinema\\Services\\Interfaces\\ICustomerService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\ICustomerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-25T01:12:55.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IBookingService.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\andalusia\\Cinema\\Services\\Interfaces\\IBookingService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IBookingService.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\andalusia\\Cinema\\Services\\Interfaces\\IBookingService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IBookingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-25T01:12:38.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "GlobalExceptionMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\andalusia\\Cinema\\Middleware\\GlobalExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "Middleware\\GlobalExceptionMiddleware.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\andalusia\\Cinema\\Middleware\\GlobalExceptionMiddleware.cs",
+              "RelativeToolTip": "Middleware\\GlobalExceptionMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-25T01:02:54.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "CreateMovieRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\andalusia\\Cinema\\DTO\\CreateMovieRequest.cs",
+              "RelativeDocumentMoniker": "DTO\\CreateMovieRequest.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\andalusia\\Cinema\\DTO\\CreateMovieRequest.cs",
+              "RelativeToolTip": "DTO\\CreateMovieRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-25T00:58:24.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "CreateCustomerRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\andalusia\\Cinema\\DTO\\CreateCustomerRequest.cs",
+              "RelativeDocumentMoniker": "DTO\\CreateCustomerRequest.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\andalusia\\Cinema\\DTO\\CreateCustomerRequest.cs",
+              "RelativeToolTip": "DTO\\CreateCustomerRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-25T00:58:14.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "BookingDto.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\andalusia\\Cinema\\DTO\\BookingDto.cs",
+              "RelativeDocumentMoniker": "DTO\\BookingDto.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\andalusia\\Cinema\\DTO\\BookingDto.cs",
+              "RelativeToolTip": "DTO\\BookingDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-25T00:54:30.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "CreateBookingRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\andalusia\\Cinema\\DTO\\CreateBookingRequest.cs",
+              "RelativeDocumentMoniker": "DTO\\CreateBookingRequest.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\andalusia\\Cinema\\DTO\\CreateBookingRequest.cs",
+              "RelativeToolTip": "DTO\\CreateBookingRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-25T00:58:08.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "AuditoriumDto.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\andalusia\\Cinema\\DTO\\AuditoriumDto.cs",
+              "RelativeDocumentMoniker": "DTO\\AuditoriumDto.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\andalusia\\Cinema\\DTO\\AuditoriumDto.cs",
+              "RelativeToolTip": "DTO\\AuditoriumDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-25T00:54:07.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "BookingFilterParams.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\andalusia\\Cinema\\DTO\\BookingFilterParams.cs",
+              "RelativeDocumentMoniker": "DTO\\BookingFilterParams.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\andalusia\\Cinema\\DTO\\BookingFilterParams.cs",
+              "RelativeToolTip": "DTO\\BookingFilterParams.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-25T00:57:17.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "CreateAuditoriumRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\andalusia\\Cinema\\DTO\\CreateAuditoriumRequest.cs",
+              "RelativeDocumentMoniker": "DTO\\CreateAuditoriumRequest.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\andalusia\\Cinema\\DTO\\CreateAuditoriumRequest.cs",
+              "RelativeToolTip": "DTO\\CreateAuditoriumRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-25T00:57:35.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "UpdateShowTimeRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\andalusia\\Cinema\\DTO\\UpdateShowTimeRequest.cs",
+              "RelativeDocumentMoniker": "DTO\\UpdateShowTimeRequest.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\andalusia\\Cinema\\DTO\\UpdateShowTimeRequest.cs",
+              "RelativeToolTip": "DTO\\UpdateShowTimeRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-25T00:59:47.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "UpdateMovieRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\andalusia\\Cinema\\DTO\\UpdateMovieRequest.cs",
+              "RelativeDocumentMoniker": "DTO\\UpdateMovieRequest.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\andalusia\\Cinema\\DTO\\UpdateMovieRequest.cs",
+              "RelativeToolTip": "DTO\\UpdateMovieRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-25T00:59:40.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "UpdateCustomerRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\andalusia\\Cinema\\DTO\\UpdateCustomerRequest.cs",
+              "RelativeDocumentMoniker": "DTO\\UpdateCustomerRequest.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\andalusia\\Cinema\\DTO\\UpdateCustomerRequest.cs",
+              "RelativeToolTip": "DTO\\UpdateCustomerRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-25T00:59:34.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "UpdateAuditoriumRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\andalusia\\Cinema\\DTO\\UpdateAuditoriumRequest.cs",
+              "RelativeDocumentMoniker": "DTO\\UpdateAuditoriumRequest.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\andalusia\\Cinema\\DTO\\UpdateAuditoriumRequest.cs",
+              "RelativeToolTip": "DTO\\UpdateAuditoriumRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-25T00:59:28.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ShowTimeDto.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\andalusia\\Cinema\\DTO\\ShowTimeDto.cs",
+              "RelativeDocumentMoniker": "DTO\\ShowTimeDto.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\andalusia\\Cinema\\DTO\\ShowTimeDto.cs",
+              "RelativeToolTip": "DTO\\ShowTimeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-25T00:59:22.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "PaginationParams.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\andalusia\\Cinema\\DTO\\PaginationParams.cs",
+              "RelativeDocumentMoniker": "DTO\\PaginationParams.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\andalusia\\Cinema\\DTO\\PaginationParams.cs",
+              "RelativeToolTip": "DTO\\PaginationParams.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-25T00:59:08.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "PagedResult.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\andalusia\\Cinema\\DTO\\PagedResult.cs",
+              "RelativeDocumentMoniker": "DTO\\PagedResult.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\andalusia\\Cinema\\DTO\\PagedResult.cs",
+              "RelativeToolTip": "DTO\\PagedResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-25T00:59:09.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "MovieV2Dto.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\andalusia\\Cinema\\DTO\\MovieV2Dto.cs",
+              "RelativeDocumentMoniker": "DTO\\MovieV2Dto.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\andalusia\\Cinema\\DTO\\MovieV2Dto.cs",
+              "RelativeToolTip": "DTO\\MovieV2Dto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-25T00:59:03.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "MovieV1Dto.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\andalusia\\Cinema\\DTO\\MovieV1Dto.cs",
+              "RelativeDocumentMoniker": "DTO\\MovieV1Dto.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\andalusia\\Cinema\\DTO\\MovieV1Dto.cs",
+              "RelativeToolTip": "DTO\\MovieV1Dto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-25T00:58:56.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "MovieFilterParams.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\andalusia\\Cinema\\DTO\\MovieFilterParams.cs",
+              "RelativeDocumentMoniker": "DTO\\MovieFilterParams.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\andalusia\\Cinema\\DTO\\MovieFilterParams.cs",
+              "RelativeToolTip": "DTO\\MovieFilterParams.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-25T00:58:47.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "CustomerDto.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\andalusia\\Cinema\\DTO\\CustomerDto.cs",
+              "RelativeDocumentMoniker": "DTO\\CustomerDto.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\andalusia\\Cinema\\DTO\\CustomerDto.cs",
+              "RelativeToolTip": "DTO\\CustomerDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-25T00:58:39.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "CreateShowTimeRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\andalusia\\Cinema\\DTO\\CreateShowTimeRequest.cs",
+              "RelativeDocumentMoniker": "DTO\\CreateShowTimeRequest.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\andalusia\\Cinema\\DTO\\CreateShowTimeRequest.cs",
+              "RelativeToolTip": "DTO\\CreateShowTimeRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-25T00:58:32.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\andalusia\\Cinema\\Repistories\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "Repistories\\CustomerRepository.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\andalusia\\Cinema\\Repistories\\CustomerRepository.cs",
+              "RelativeToolTip": "Repistories\\CustomerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-24T23:04:32.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "AuditoriumRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\andalusia\\Cinema\\Repistories\\AuditoriumRepository.cs",
+              "RelativeDocumentMoniker": "Repistories\\AuditoriumRepository.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\andalusia\\Cinema\\Repistories\\AuditoriumRepository.cs",
+              "RelativeToolTip": "Repistories\\AuditoriumRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-24T22:58:32.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "IShowTimeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\andalusia\\Cinema\\Repistories\\Interfaces\\IShowTimeRepository.cs",
+              "RelativeDocumentMoniker": "Repistories\\Interfaces\\IShowTimeRepository.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\andalusia\\Cinema\\Repistories\\Interfaces\\IShowTimeRepository.cs",
+              "RelativeToolTip": "Repistories\\Interfaces\\IShowTimeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-24T22:57:12.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "ICustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\andalusia\\Cinema\\Repistories\\Interfaces\\ICustomerRepository.cs",
+              "RelativeDocumentMoniker": "Repistories\\Interfaces\\ICustomerRepository.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\andalusia\\Cinema\\Repistories\\Interfaces\\ICustomerRepository.cs",
+              "RelativeToolTip": "Repistories\\Interfaces\\ICustomerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-24T22:51:34.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "IAuditoriumRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\andalusia\\Cinema\\Repistories\\Interfaces\\IAuditoriumRepository.cs",
+              "RelativeDocumentMoniker": "Repistories\\Interfaces\\IAuditoriumRepository.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\andalusia\\Cinema\\Repistories\\Interfaces\\IAuditoriumRepository.cs",
+              "RelativeToolTip": "Repistories\\Interfaces\\IAuditoriumRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-24T22:50:29.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\andalusia\\Cinema\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "Models\\Movie.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\andalusia\\Cinema\\Models\\Movie.cs",
+              "RelativeToolTip": "Models\\Movie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-24T22:23:21.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\andalusia\\Cinema\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\andalusia\\Cinema\\Models\\Customer.cs",
+              "RelativeToolTip": "Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-24T22:22:52.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\andalusia\\Cinema\\Models\\Booking.cs",
+              "RelativeDocumentMoniker": "Models\\Booking.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\andalusia\\Cinema\\Models\\Booking.cs",
+              "RelativeToolTip": "Models\\Booking.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAIwAQAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-24T22:21:36.237Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
