@@ -1,0 +1,46 @@
+@baseUrl = http://localhost:5080
+@token = PASTE_LOGIN_TOKEN_HERE
+@taskId = 1
+
+### 1. Register (repeat to test 409)
+POST {{baseUrl}}/api/auth/register
+Content-Type: application/json
+
+{"email":"alice@example.com","password":"Learning-JWT-123!"}
+
+### 2. Login, then copy token into @token
+POST {{baseUrl}}/api/auth/login
+Content-Type: application/json
+
+{"email":"alice@example.com","password":"Learning-JWT-123!"}
+
+### 3. Incorrect credentials: 401
+POST {{baseUrl}}/api/auth/login
+Content-Type: application/json
+
+{"email":"alice@example.com","password":"WrongPassword!"}
+
+### 4. No token: 401
+GET {{baseUrl}}/api/tasks
+
+### 5. Create: 201. Save the ID in @taskId
+POST {{baseUrl}}/api/tasks
+Authorization: Bearer {{token}}
+Content-Type: application/json
+
+{"title":"Team meeting","description":"Only visible to its owner","dueDate":null,"userId":999999}
+
+### 6. Filter/paginate: 200, only the authenticated user's tasks
+GET {{baseUrl}}/api/tasks?search=MEETING&page=1&pageSize=5
+Authorization: Bearer {{token}}
+
+### 7. Update: 200
+PUT {{baseUrl}}/api/tasks/{{taskId}}
+Authorization: Bearer {{token}}
+Content-Type: application/json
+
+{"title":"Team meeting complete","description":"Finished","isCompleted":true,"dueDate":null}
+
+### 8. Delete: 204
+DELETE {{baseUrl}}/api/tasks/{{taskId}}
+Authorization: Bearer {{token}}
