@@ -1,0 +1,286 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dell\\Desktop\\andalusia\\TaskManagerApi\\TaskManagerApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C8965ADB-C1C3-8E84-B5BD-52EFBDCFED3C}|TaskManagerApi.csproj|c:\\users\\dell\\desktop\\andalusia\\taskmanagerapi\\taskmanagerapi\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{C8965ADB-C1C3-8E84-B5BD-52EFBDCFED3C}|TaskManagerApi.csproj|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8965ADB-C1C3-8E84-B5BD-52EFBDCFED3C}|TaskManagerApi.csproj|c:\\users\\dell\\desktop\\andalusia\\taskmanagerapi\\taskmanagerapi\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{C8965ADB-C1C3-8E84-B5BD-52EFBDCFED3C}|TaskManagerApi.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5959F56-D5A2-444D-B4D4-E0ACDCF09ED4}|..\\TaskManagerApi.Tests\\TaskManagerApi.Tests.csproj|c:\\users\\dell\\desktop\\andalusia\\taskmanagerapi\\taskmanagerapi.tests\\taskvalidatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8965ADB-C1C3-8E84-B5BD-52EFBDCFED3C}|TaskManagerApi.csproj|c:\\users\\dell\\desktop\\andalusia\\taskmanagerapi\\taskmanagerapi\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8965ADB-C1C3-8E84-B5BD-52EFBDCFED3C}|TaskManagerApi.csproj|solutionrelative:controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8965ADB-C1C3-8E84-B5BD-52EFBDCFED3C}|TaskManagerApi.csproj|c:\\users\\dell\\desktop\\andalusia\\taskmanagerapi\\taskmanagerapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8965ADB-C1C3-8E84-B5BD-52EFBDCFED3C}|TaskManagerApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8965ADB-C1C3-8E84-B5BD-52EFBDCFED3C}|TaskManagerApi.csproj|c:\\users\\dell\\desktop\\andalusia\\taskmanagerapi\\taskmanagerapi\\validators\\updatetaskrequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8965ADB-C1C3-8E84-B5BD-52EFBDCFED3C}|TaskManagerApi.csproj|solutionrelative:validators\\updatetaskrequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8965ADB-C1C3-8E84-B5BD-52EFBDCFED3C}|TaskManagerApi.csproj|c:\\users\\dell\\desktop\\andalusia\\taskmanagerapi\\taskmanagerapi\\validators\\createtaskrequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8965ADB-C1C3-8E84-B5BD-52EFBDCFED3C}|TaskManagerApi.csproj|solutionrelative:validators\\createtaskrequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8965ADB-C1C3-8E84-B5BD-52EFBDCFED3C}|TaskManagerApi.csproj|c:\\users\\dell\\desktop\\andalusia\\taskmanagerapi\\taskmanagerapi\\dtos\\createtaskrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8965ADB-C1C3-8E84-B5BD-52EFBDCFED3C}|TaskManagerApi.csproj|solutionrelative:dtos\\createtaskrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8965ADB-C1C3-8E84-B5BD-52EFBDCFED3C}|TaskManagerApi.csproj|c:\\users\\dell\\desktop\\andalusia\\taskmanagerapi\\taskmanagerapi\\dtos\\updatetaskrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8965ADB-C1C3-8E84-B5BD-52EFBDCFED3C}|TaskManagerApi.csproj|solutionrelative:dtos\\updatetaskrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8965ADB-C1C3-8E84-B5BD-52EFBDCFED3C}|TaskManagerApi.csproj|c:\\users\\dell\\desktop\\andalusia\\taskmanagerapi\\taskmanagerapi\\migrations\\20260902182706_synctaskmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8965ADB-C1C3-8E84-B5BD-52EFBDCFED3C}|TaskManagerApi.csproj|solutionrelative:migrations\\20260902182706_synctaskmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8965ADB-C1C3-8E84-B5BD-52EFBDCFED3C}|TaskManagerApi.csproj|c:\\users\\dell\\desktop\\andalusia\\taskmanagerapi\\taskmanagerapi\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8965ADB-C1C3-8E84-B5BD-52EFBDCFED3C}|TaskManagerApi.csproj|solutionrelative:mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8965ADB-C1C3-8E84-B5BD-52EFBDCFED3C}|TaskManagerApi.csproj|c:\\users\\dell\\desktop\\andalusia\\taskmanagerapi\\taskmanagerapi\\dtos\\taskitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8965ADB-C1C3-8E84-B5BD-52EFBDCFED3C}|TaskManagerApi.csproj|solutionrelative:dtos\\taskitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8965ADB-C1C3-8E84-B5BD-52EFBDCFED3C}|TaskManagerApi.csproj|c:\\users\\dell\\desktop\\andalusia\\taskmanagerapi\\taskmanagerapi\\dtos\\tasksummarydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8965ADB-C1C3-8E84-B5BD-52EFBDCFED3C}|TaskManagerApi.csproj|solutionrelative:dtos\\tasksummarydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8965ADB-C1C3-8E84-B5BD-52EFBDCFED3C}|TaskManagerApi.csproj|c:\\users\\dell\\desktop\\andalusia\\taskmanagerapi\\taskmanagerapi\\models\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8965ADB-C1C3-8E84-B5BD-52EFBDCFED3C}|TaskManagerApi.csproj|solutionrelative:models\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8965ADB-C1C3-8E84-B5BD-52EFBDCFED3C}|TaskManagerApi.csproj|c:\\users\\dell\\desktop\\andalusia\\taskmanagerapi\\taskmanagerapi\\dtos\\pagedresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8965ADB-C1C3-8E84-B5BD-52EFBDCFED3C}|TaskManagerApi.csproj|solutionrelative:dtos\\pagedresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\andalusia\\TaskManagerApi\\TaskManagerApi\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\andalusia\\TaskManagerApi\\TaskManagerApi\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-09-02T19:10:48.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\andalusia\\TaskManagerApi\\TaskManagerApi\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\andalusia\\TaskManagerApi\\TaskManagerApi\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAC4AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-09-02T19:08:39.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c6f34f0d-7ae5-4f3a-be61-fe0c21ae9eb8}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TaskValidatorTests.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\andalusia\\TaskManagerApi\\TaskManagerApi.Tests\\TaskValidatorTests.cs",
+              "RelativeDocumentMoniker": "..\\TaskManagerApi.Tests\\TaskValidatorTests.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\andalusia\\TaskManagerApi\\TaskManagerApi.Tests\\TaskValidatorTests.cs",
+              "RelativeToolTip": "..\\TaskManagerApi.Tests\\TaskValidatorTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T18:58:33.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TasksController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\andalusia\\TaskManagerApi\\TaskManagerApi\\Controllers\\TasksController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TasksController.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\andalusia\\TaskManagerApi\\TaskManagerApi\\Controllers\\TasksController.cs",
+              "RelativeToolTip": "Controllers\\TasksController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T18:48:02.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UpdateTaskRequestValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\andalusia\\TaskManagerApi\\TaskManagerApi\\Validators\\UpdateTaskRequestValidator.cs",
+              "RelativeDocumentMoniker": "Validators\\UpdateTaskRequestValidator.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\andalusia\\TaskManagerApi\\TaskManagerApi\\Validators\\UpdateTaskRequestValidator.cs",
+              "RelativeToolTip": "Validators\\UpdateTaskRequestValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T18:43:26.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateTaskRequestValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\andalusia\\TaskManagerApi\\TaskManagerApi\\Validators\\CreateTaskRequestValidator.cs",
+              "RelativeDocumentMoniker": "Validators\\CreateTaskRequestValidator.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\andalusia\\TaskManagerApi\\TaskManagerApi\\Validators\\CreateTaskRequestValidator.cs",
+              "RelativeToolTip": "Validators\\CreateTaskRequestValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T18:35:34.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20260902182706_SyncTaskModel.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\andalusia\\TaskManagerApi\\TaskManagerApi\\Migrations\\20260902182706_SyncTaskModel.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260902182706_SyncTaskModel.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\andalusia\\TaskManagerApi\\TaskManagerApi\\Migrations\\20260902182706_SyncTaskModel.cs",
+              "RelativeToolTip": "Migrations\\20260902182706_SyncTaskModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T18:27:24.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TaskItem.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\andalusia\\TaskManagerApi\\TaskManagerApi\\Models\\TaskItem.cs",
+              "RelativeDocumentMoniker": "Models\\TaskItem.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\andalusia\\TaskManagerApi\\TaskManagerApi\\Models\\TaskItem.cs",
+              "RelativeToolTip": "Models\\TaskItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T17:50:49.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UpdateTaskRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\andalusia\\TaskManagerApi\\TaskManagerApi\\DTOs\\UpdateTaskRequest.cs",
+              "RelativeDocumentMoniker": "DTOs\\UpdateTaskRequest.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\andalusia\\TaskManagerApi\\TaskManagerApi\\DTOs\\UpdateTaskRequest.cs",
+              "RelativeToolTip": "DTOs\\UpdateTaskRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T17:50:09.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\andalusia\\TaskManagerApi\\TaskManagerApi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\andalusia\\TaskManagerApi\\TaskManagerApi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T17:45:47.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TaskItemDto.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\andalusia\\TaskManagerApi\\TaskManagerApi\\DTOs\\TaskItemDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\TaskItemDto.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\andalusia\\TaskManagerApi\\TaskManagerApi\\DTOs\\TaskItemDto.cs",
+              "RelativeToolTip": "DTOs\\TaskItemDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T17:51:10.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreateTaskRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\andalusia\\TaskManagerApi\\TaskManagerApi\\DTOs\\CreateTaskRequest.cs",
+              "RelativeDocumentMoniker": "DTOs\\CreateTaskRequest.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\andalusia\\TaskManagerApi\\TaskManagerApi\\DTOs\\CreateTaskRequest.cs",
+              "RelativeToolTip": "DTOs\\CreateTaskRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T17:49:44.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TaskSummaryDto.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\andalusia\\TaskManagerApi\\TaskManagerApi\\DTOs\\TaskSummaryDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\TaskSummaryDto.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\andalusia\\TaskManagerApi\\TaskManagerApi\\DTOs\\TaskSummaryDto.cs",
+              "RelativeToolTip": "DTOs\\TaskSummaryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T17:54:00.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\andalusia\\TaskManagerApi\\TaskManagerApi\\Mapping\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "Mapping\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\andalusia\\TaskManagerApi\\TaskManagerApi\\Mapping\\MappingProfile.cs",
+              "RelativeToolTip": "Mapping\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T17:54:05.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PagedResult.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\andalusia\\TaskManagerApi\\TaskManagerApi\\DTOs\\PagedResult.cs",
+              "RelativeDocumentMoniker": "DTOs\\PagedResult.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\andalusia\\TaskManagerApi\\TaskManagerApi\\DTOs\\PagedResult.cs",
+              "RelativeToolTip": "DTOs\\PagedResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T17:49:51.518Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
